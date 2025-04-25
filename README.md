@@ -83,6 +83,9 @@ npm start
 4. Add an environment variable (optional): `REACT_APP_API_URL=https://your-backend-url`
 5. Deploy.
 
+6. react app link
+7. https://vercel.com/dharshini138s-projects/ai-blog-generator-xfe5/6EE6xzAR5aW5uPQUZpCfYsdvmvMq
+
 ---
 
 ## API Keys Required
